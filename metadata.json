@@ -1,0 +1,6 @@
+{
+  "name": "Smart Classroom Analytics System",
+  "description": "An interactive classroom analytics system with attendance marking, role-based dashboards, classroom management, and analytics chart representations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
